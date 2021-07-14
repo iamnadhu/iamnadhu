@@ -15,6 +15,10 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 
 
 ## Some Repos
+[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=iOS)](https://github.com/iamnadhu/iOS)
+[![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Flutter)](https://github.com/iamnadhu/Flutter)
+[![ReactNative](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=ReactNative)](https://github.com/iamnadhu/ReactNative)
+[![Android](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Android)](https://github.com/iamnadhu/Android)
 
 
 ## Technology Used
