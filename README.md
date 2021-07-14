@@ -3,7 +3,7 @@
 
 
 ## About Me
-Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development'. Skilled in 'Mobile Application Development' such as 'iOS', 'Flutter', 'React Native', 'Android'. Strong engineering professional with a 'Master’s Degree' focused on 'MCA' from 'Mahatma Gandhi University'.
+Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development'. Skilled in 'Mobile Application Development' such as 'iOS', 'Flutter', 'React Native' and 'Android'. Strong engineering professional with a 'Master’s Degree' focused on 'MCA' from 'Mahatma Gandhi University'.
 
 
 ## My Status
