@@ -1,3 +1,4 @@
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/me-icon.jpg">](https://github.com/iamnadhu)
 # Hi, I am Nadhu...
 #### Software Engineer | Mobile Application Developer | Future Entrepreneur
 
@@ -21,13 +22,13 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 [![Android](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Android)](https://github.com/iamnadhu/Android)
 
 
-## Technology Used 
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/telegram-icon.png">](https://t.me/iamnadhu)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/github-icon.png">](https://github.com/iamnadhu)
+## Technology Used
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 
 
 ## Follow me:
