@@ -1,5 +1,4 @@
 ## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
-Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/nadhu-icon.jpg">](https://linktr.ee/iamnadhu)
 
