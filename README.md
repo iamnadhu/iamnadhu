@@ -1,4 +1,3 @@
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/me-icon.jpg">](https://github.com/iamnadhu)
 # Hi, I am Nadhu...
 #### Software Engineer | Mobile Application Developer | Future Entrepreneur
 
