@@ -26,17 +26,15 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 
 
-## Follow me:
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/telegram-icon.png">](https://t.me/iamnadhu)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
-[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/github-icon.png">](https://github.com/iamnadhu)
+## Follow me on
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/telegram-icon.png">](https://t.me/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/github-icon.png">](https://github.com/iamnadhu)
 
 
 Show your support!
