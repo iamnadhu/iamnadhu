@@ -1,16 +1,22 @@
-### Hi there 👋
+## Author [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/auther-icon.png">](https://linktr.ee/iamnadhu)
+Created by [Nadhu](https://linktr.ee/iamnadhu)
 
-<!--
-**iamnadhu/iamnadhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/nadhu-icon.jpg">](https://linktr.ee/iamnadhu)
 
-Here are some ideas to get you started:
+Follow me on: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/telegram-icon.png">](https://t.me/iamnadhu)
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/linkedin-icon.png">](https://www.linkedin.com/in/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/facebook-icon.png">](https://www.facebook.com/iamnadhu/)
+[<img src="https://github.com/iamnadhu/Android/blob/master/Resources/github-icon.png">](https://github.com/iamnadhu)
+
+
+Show your support!
+
+Please ⭐️   this repository if this section helped you!
+
+
+## License [<img src="https://github.com/iamnadhu/Android/blob/master/Resources/license-icon.png">](https://github.com/iamnadhu/Android)
+Copyright © 2021-2022 [Nadhu](https://linktr.ee/iamnadhu)
