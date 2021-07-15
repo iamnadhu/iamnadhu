@@ -1,6 +1,5 @@
 # Hi, I am Nadhu...
 ### Software Engineer | Mobile Application Developer | Future Entrepreneur
-Created by [Nadhu](https://linktr.ee/iamnadhu)
 
 
 ## About Me
