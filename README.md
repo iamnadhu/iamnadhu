@@ -1,9 +1,14 @@
 # Hi, I am Nadhu...
-#### Software Engineer | Mobile Application Developer | Future Entrepreneur
+### Software Engineer | Mobile Application Developer | Future Entrepreneur
 
 
 ## About Me
-Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development'. Skilled in 'Mobile Application Development' such as 'iOS', 'Flutter', 'React Native' and 'Android'. Strong engineering professional with a 'Master’s Degree' focused on 'MCA' from 'Mahatma Gandhi University'.
+Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development'. Skilled in 'Mobile Application Development' using various technologies / platforms such as 'iOS', 'Flutter', 'React Native' and 'Android'.
+
+- Experience in Analysis, Designing, Developing, Testing, Debugging and Publishing mobile application to App Store / Play Store.
+- Over 4+ years of experience in 'Mobile Application Development'.
+- Strong skills in troubleshooting and problem solving.
+- Strong engineering professional with an 'Undergraduate Degree (UG) - Bachelor of Computer Application (BCA)' as well as 'Postgraduate Degree (PG) - Master of Computer Applications (MCA)' from 'Mahatma Gandhi University (MGU), Kerala, India'.
 
 
 ## My Status
@@ -22,6 +27,12 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 
 
 ## Technology Used
+Xcode, Android Studio, VS Code, Net Beans, Sublime, Eclipse
+Google Excel, Google Sheet, Google Doc,
+
+Swift, Dart, JavaScript, Java, React Native
+Firebase, Google Api, 000Webhost, CPanel, Xampp, Wamp, Mamp
+
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
