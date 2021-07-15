@@ -27,16 +27,22 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 
 
 ## Technology Used
-Xcode, Android Studio, VS Code, Net Beans, Sublime, Eclipse
-Google Excel, Google Sheet, Google Doc,
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/android-studio-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/vs-code-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/postman-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/sublime-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/netbeans-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/pycharm-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/eclipse-icon.png">](https://github.com/iamnadhu)
 
-Swift, Dart, JavaScript, Java, React Native
-Firebase, Google Api, 000Webhost, CPanel, Xampp, Wamp, Mamp
-
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
-[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/swift-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/dart-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/java-script-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/java-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/firebase-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/google-sheet-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/google-doc-icon.png">](https://github.com/iamnadhu)
 
 
 ## Follow me on
