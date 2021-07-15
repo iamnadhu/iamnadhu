@@ -19,14 +19,14 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnadhu&langs_count=8)](https://github.com/iamnadhu)
 
 
-## Some Repos
+## Some Repositories
 [![iOS](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=iOS)](https://github.com/iamnadhu/iOS)
 [![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Flutter)](https://github.com/iamnadhu/Flutter)
 [![ReactNative](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=ReactNative)](https://github.com/iamnadhu/ReactNative)
 [![Android](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Android)](https://github.com/iamnadhu/Android)
 
 
-## Technology Used
+## Technologies Used
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/android-studio-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/vs-code-icon.png">](https://github.com/iamnadhu)
@@ -44,7 +44,7 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/google-doc-icon.png">](https://github.com/iamnadhu)
 
 
-## Follow me on
+## Follow me
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/telegram-icon.png">](https://t.me/iamnadhu)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
 [<img src="https://github.com/iamnadhu/Utilities/blob/main/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
