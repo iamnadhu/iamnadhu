@@ -5,7 +5,7 @@
 ## About Me
 Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development'. Skilled in 'Mobile Application Development' using various technologies / platforms such as 'iOS', 'Flutter', 'React Native' and 'Android'.
 
-- Experience in Analysis, Designing, Developing, Testing, Debugging and Publishing mobile application to App Store / Play Store.
+- Experience in Analysing, Designing, Developing, Testing, Debugging and Publishing mobile application to App Store / Play Store.
 - Over 4+ years of experience in 'Mobile Application Development'.
 - Strong skills in troubleshooting and problem solving.
 - Strong engineering professional with an 'Undergraduate Degree (UG) - Bachelor of Computer Application (BCA)' as well as 'Postgraduate Degree (PG) - Master of Computer Applications (MCA)' from 'Mahatma Gandhi University (MGU), Kerala, India'.
