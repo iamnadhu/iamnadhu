@@ -1,8 +1,4 @@
-<h1 align="center">
-    <img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/wallpaper-icon.png">
-</h1>
-
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://github.com/iamnadhu">    
     Hi, I am Nadhu...
   </a>
@@ -11,6 +7,11 @@
 <p align="center">
   Software Engineer | Mobile Application Developer
 </p>
+ -->
+# Hi, I am Nadhu...
+
+### Software Engineer | Mobile Application Developer
+
 
 ## About Me
 Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development' using various technologies such as 'iOS', 'Flutter', 'React Native' and 'Android'.
