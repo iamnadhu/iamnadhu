@@ -1,5 +1,9 @@
 <h1 align="center">
-  <a href="https://github.com/iamnadhu">
+    <img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/wallpaper-icon.png">
+</h1>
+
+<h1 align="center">
+  <a href="https://github.com/iamnadhu">    
     Hi, I am Nadhu...
   </a>
 </h1>
