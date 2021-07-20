@@ -1,6 +1,12 @@
-# Hi, I am Nadhu...
-### Software Engineer | Mobile Application Developer
+<h1 align="center">
+  <a href="https://github.com/iamnadhu">
+    Hi, I am Nadhu...
+  </a>
+</h1>
 
+<p align="center">
+  Software Engineer | Mobile Application Developer
+</p>
 
 ## About Me
 Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development' using various technologies such as 'iOS', 'Flutter', 'React Native' and 'Android'.
