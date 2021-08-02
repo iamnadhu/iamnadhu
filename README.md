@@ -43,6 +43,7 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/linux-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/google-sheet-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/google-doc-icon.png">](https://github.com/iamnadhu)
+[<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/terminal-icon.png">](https://github.com/iamnadhu)
 
 
 ## My Status
