@@ -13,7 +13,7 @@
 ### Software Engineer | Mobile Application Developer
 
 
-## About Me
+## About me
 Experienced 'Software Engineer' with a demonstrated history of working in the 'Mobile Application Development' using various technologies such as 'iOS', 'Flutter', 'React Native' and 'Android'.
 
 - Experience in analysing, designing, developing, testing and debugging mobile applications. 
@@ -23,22 +23,7 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 - Strong engineering professional with an 'Undergraduate Degree (UG) - Bachelor of Computer Application (BCA)' as well as 'Postgraduate Degree (PG) - Master of Computer Applications (MCA)' from 'Mahatma Gandhi University (MGU), Kerala, India'.
 
 
-## My Status
-[![status](https://github-readme-stats.vercel.app/api?username=iamnadhu&show_icons=true&theme=radical)](https://github.com/iamnadhu)
-
-
-## Commonly Used Languages
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnadhu&langs_count=8)](https://github.com/iamnadhu)
-
-
-## Some Repositories
-[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=iOS)](https://github.com/iamnadhu/iOS)
-[![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Flutter)](https://github.com/iamnadhu/Flutter)
-[![ReactNative](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=ReactNative)](https://github.com/iamnadhu/ReactNative)
-[![Android](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Android)](https://github.com/iamnadhu/Android)
-
-
-## Technologies Used
+## Languages and Tools
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/xcode-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/swift-icon.png">](https://github.com/iamnadhu)
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/android-studio-icon.png">](https://github.com/iamnadhu)
@@ -60,7 +45,22 @@ Experienced 'Software Engineer' with a demonstrated history of working in the 'M
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/google-doc-icon.png">](https://github.com/iamnadhu)
 
 
-## Follow me
+## My Status
+[![status](https://github-readme-stats.vercel.app/api?username=iamnadhu&show_icons=true&theme=radical)](https://github.com/iamnadhu)
+
+
+## Commonly used Languages
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnadhu&langs_count=8)](https://github.com/iamnadhu)
+
+
+## Some Repositories
+[![iOS](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=iOS)](https://github.com/iamnadhu/iOS)
+[![Flutter](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Flutter)](https://github.com/iamnadhu/Flutter)
+[![ReactNative](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=ReactNative)](https://github.com/iamnadhu/ReactNative)
+[![Android](https://github-readme-stats.vercel.app/api/pin/?username=iamnadhu&repo=Android)](https://github.com/iamnadhu/Android)
+
+
+## Connect with me
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/telegram-icon.png">](https://t.me/iamnadhu)
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/instagram-icon.png">](https://www.instagram.com/iamnadhu/)
 [<img src="https://github.com/iamnadhu/iamnadhu/blob/main/Resources/whatsapp-icon.png">](https://api.whatsapp.com/send?phone=917293451396&lang=en)
