@@ -1,6 +1,6 @@
 <!-- <h1 align="center">
   <a href="https://github.com/iamnadhu">    
-    Hi, I am Nadhu...
+    Hi, I am Nadir Shah...
   </a>
 </h1>
 
